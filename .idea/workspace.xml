@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="ultimate first commit">
-      <change afterPath="$PROJECT_DIR$/src/abstract_interface/Daire.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_interface/Dikdortgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_interface/Dikdortgen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_interface/GeometrikSekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_interface/GeometrikSekil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_interface/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_interface/Kare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/abstract_interface/SoyutSinifKavrami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_interface/SoyutSinifKavrami.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663258433865</updated>
       <workItem from="1663258435252" duration="88000" />
-      <workItem from="1663258524317" duration="2087000" />
+      <workItem from="1663258524317" duration="2735000" />
     </task>
     <task id="LOCAL-00001" summary="ultimate first commit">
       <created>1663259246217</created>
@@ -94,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663259246217</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ultimate first commit">
+      <created>1663260863692</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663260863692</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

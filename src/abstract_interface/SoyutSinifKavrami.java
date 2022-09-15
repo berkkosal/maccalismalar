@@ -8,7 +8,7 @@ public class SoyutSinifKavrami {
         kare.alanHesapla();
         ((Kare) kare).adiniSoyle();
 
-        Dikdortgen dikdortgen = new Dikdortgen(5,8);
+        Dikdortgen dikdortgen = new Dikdortgen(5, 8);
         dikdortgen.cevreHesapla();
         dikdortgen.alanHesapla();
         dikdortgen.adiniSoyle();
@@ -17,6 +17,19 @@ public class SoyutSinifKavrami {
         daire.cevreHesapla();
         daire.alanHesapla();
 
+        alanlarikarsilastir(kare,dikdortgen);
+
+
+    }
+
+    public static void alanlarikarsilastir(GeometrikSekil gs1, GeometrikSekil gs2) {
+        if (gs1.getHesaplananAlan() < gs2.getHesaplananAlan()) {
+            System.out.println("Birinci parametredeki nesnenin alanı ikinci parametredeki nesne alanından küçüktür . ");
+        } else if (gs1.getHesaplananAlan() > gs2.getHesaplananAlan()) {
+            System.out.println("Birinci parametredeki nesnenin alanı ikinci parametredeki nesne alanından büyüktür . ");
+        } else {
+            System.out.println("Alanlar birbirine eşittir ");
+        }
 
     }
 }
