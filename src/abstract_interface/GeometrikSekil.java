@@ -3,6 +3,7 @@ package abstract_interface;
 public abstract class GeometrikSekil {
 
     private int birinciKenar;
+    private int hesaplananAlan;
 
     abstract public void cevreHesapla();
 
@@ -16,6 +17,13 @@ public abstract class GeometrikSekil {
 
     }
 
+    public int getHesaplananAlan() {
+        return hesaplananAlan;
+    }
+
+    public void setHesaplananAlan(int hesaplananAlan) {
+        this.hesaplananAlan = hesaplananAlan;
+    }
 
     public int getBirinciKenar() {
         return birinciKenar;

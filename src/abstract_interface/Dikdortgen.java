@@ -27,8 +27,12 @@ class Dikdortgen extends GeometrikSekil {
 
     @Override
     public void alanHesapla() {
+        setHesaplananAlan(getBirinciKenar() * ikinciKenar);
+        System.out.println("Dikdörtgenin alanı: " + getHesaplananAlan());
 
-        System.out.println("Dikdörtgenin alanı: " + getBirinciKenar() * ikinciKenar);
+    }
 
+    public void adiniSoyle(){
+        System.out.println("Ben bir dikdörtgen sınıfı nesnesiyim.");
     }
 }

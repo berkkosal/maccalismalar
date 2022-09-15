@@ -3,8 +3,7 @@ package abstract_interface;
 class Kare extends GeometrikSekil {
 
 
-
-    public Kare(int kenar){
+    public Kare(int kenar) {
         this.setBirinciKenar(kenar);
     }
 
@@ -12,13 +11,22 @@ class Kare extends GeometrikSekil {
     @Override
     public void cevreHesapla() {
 
-        System.out.println("Karenin çevresi: " + getBirinciKenar()*4);
+        System.out.println("Karenin çevresi: " + getBirinciKenar() * 4);
 
 
     }
 
     @Override
     public void alanHesapla() {
-        System.out.println("Karenin alanı: " + getBirinciKenar()*getBirinciKenar());
+        setHesaplananAlan(getBirinciKenar() * getBirinciKenar());
+        System.out.println("Karenin alanı: " + getHesaplananAlan());
     }
+
+
+    public void adiniSoyle() {
+        System.out.println("Ben bir kare sınıfı nesnesiyim.");
+    }
+
+
 }
+
