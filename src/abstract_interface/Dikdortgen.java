@@ -4,7 +4,7 @@ class Dikdortgen extends GeometrikSekil {
 
     private int ikinciKenar;
 
-    public Dikdortgen(int kenar1, int kenar2){
+    public Dikdortgen(int kenar1, int kenar2) {
         setBirinciKenar(kenar1);
         this.setIkinciKenar(kenar2);
     }
@@ -21,10 +21,14 @@ class Dikdortgen extends GeometrikSekil {
     @Override
     public void cevreHesapla() {
 
+        System.out.println("Dikdörtgenin çevresi: " + (getBirinciKenar() + ikinciKenar) * 2);
+
     }
 
     @Override
     public void alanHesapla() {
+
+        System.out.println("Dikdörtgenin alanı: " + getBirinciKenar() * ikinciKenar);
 
     }
 }
