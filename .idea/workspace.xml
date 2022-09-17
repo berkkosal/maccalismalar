@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="ultimate first commit">
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/CokluKalitimGerekliligi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/InterfaceKavrami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/Yenilebilir.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/abstract_interface/SoyutSinifKavrami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/abstract_interface/SoyutSinifKavrami.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -31,15 +34,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.CokluKalitimGerekliligi (2)">
+    <configuration name="CokluKalitimGerekliligi (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_interface.CokluKalitimGerekliligi" />
+      <module name="ciraklik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstract_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CokluKalitimGerekliligi (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_interface.CokluKalitimGerekliligi" />
+      <module name="ciraklik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstract_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CokluKalitimGerekliligi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_interface.CokluKalitimGerekliligi" />
+      <module name="ciraklik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstract_interface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SoyutSinifKavrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstract_interface.SoyutSinifKavrami" />
       <module name="ciraklik" />
@@ -68,6 +110,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CokluKalitimGerekliligi (2)" />
+        <item itemvalue="Application.CokluKalitimGerekliligi (1)" />
+        <item itemvalue="Application.CokluKalitimGerekliligi" />
         <item itemvalue="Application.SoyutSinifKavrami" />
       </list>
     </recent_temporary>
@@ -81,7 +126,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663258433865</updated>
       <workItem from="1663258435252" duration="88000" />
-      <workItem from="1663258524317" duration="2735000" />
+      <workItem from="1663258524317" duration="4683000" />
+      <workItem from="1663431629406" duration="2244000" />
     </task>
     <task id="LOCAL-00001" summary="ultimate first commit">
       <created>1663259246217</created>
@@ -97,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663260863692</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ultimate first commit">
+      <created>1663261622501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663261622501</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
