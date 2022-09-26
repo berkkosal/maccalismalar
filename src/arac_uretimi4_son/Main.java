@@ -5,8 +5,7 @@ public class Main {
         Otomobil t1 = new S350(Vites.OTOMATIK_VITES);
         Otomobil t2 = new C200(Vites.DUZ_VITES);
 
-        Kamyon k1 = new K1(new Damper());
-        k1.gazaBas();
+
 
 
     }
