@@ -3,7 +3,7 @@ package tum_edemirog;
 public class AsalSayi {
 
     public static void main(String[] args) {
-        int number = 2;
+        int number = 44;
         boolean isPrime = true;
 
         if(number==1){
