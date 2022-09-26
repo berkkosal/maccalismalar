@@ -1,42 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="interface kavrami">
-      <change afterPath="$PROJECT_DIR$/src/abstract_interface/InterfaceOzetJava8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/AracUretimiMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/Hiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/Kamyon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/Minibus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/Otomobil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi2/Deneme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi2/Otomobil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi2/Tasit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi2/TasitOzellikleri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/K1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/K2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Kamyon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Klima.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Minibus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/O1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/O2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Otomobil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Tasit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/C200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/K1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/K2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Kamyon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Minibus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Otomobil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/S350.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Tasit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Vites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tum_edemirog/EnBuyukSayi.java" afterDir="false" />
+    <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="fabrika sorusu">
+      <change afterPath="$PROJECT_DIR$/src/tum_edemirog/AsalSayi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.arac_uretimi4_son.Main">
+  <component name="RunManager" selected="Application.AsalSayi">
     <configuration name="AracUretimiMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arac_uretimi.AracUretimiMain" />
       <module name="ciraklik" />
@@ -89,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnBuyukSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tum_edemirog.EnBuyukSayi" />
+    <configuration name="AsalSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tum_edemirog.AsalSayi" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
@@ -156,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AsalSayi" />
         <item itemvalue="Application.arac_uretimi4_son.Main" />
         <item itemvalue="Application.arac_uretimi3.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.AracUretimiMain" />
-        <item itemvalue="Application.EnBuyukSayi" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +142,7 @@
       <workItem from="1663258524317" duration="4683000" />
       <workItem from="1663431629406" duration="2554000" />
       <workItem from="1663619639457" duration="32843000" />
-      <workItem from="1664020108441" duration="15889000" />
+      <workItem from="1664020108441" duration="18214000" />
     </task>
     <task id="LOCAL-00001" summary="ultimate first commit">
       <created>1663259246217</created>
@@ -206,7 +172,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663435395306</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fabrika sorusu">
+      <created>1664209086156</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664209086156</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fabrika sorusu">
+      <created>1664209156779</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664209156779</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fabrika sorusu">
+      <created>1664211486111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664211486111</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +219,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ultimate first commit" />
     <MESSAGE value="interface kavrami" />
-    <option name="LAST_COMMIT_MESSAGE" value="interface kavrami" />
+    <MESSAGE value="fabrika sorusu" />
+    <option name="LAST_COMMIT_MESSAGE" value="fabrika sorusu" />
   </component>
 </project>
