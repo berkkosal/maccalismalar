@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="ultimate first commit">
-      <change afterPath="$PROJECT_DIR$/src/abstract_interface/CokluKalitimGerekliligi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_interface/InterfaceKavrami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_interface/Yenilebilir.java" afterDir="false" />
+    <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="interface kavrami">
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/InterfaceOzetJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/Arac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/AracUretimiMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/Hiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/Kamyon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/Minibus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi/Otomobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi2/Deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi2/Otomobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi2/Tasit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi2/TasitOzellikleri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/K1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/K2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Kamyon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Klima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Minibus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/O1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/O2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Otomobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi3/Tasit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/C200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/K1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/K2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Kamyon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Minibus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Otomobil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/S350.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Tasit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arac_uretimi4_son/Vites.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tum_edemirog/EnBuyukSayi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +48,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -42,13 +75,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CokluKalitimGerekliligi (2)">
-    <configuration name="CokluKalitimGerekliligi (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_interface.CokluKalitimGerekliligi" />
+  <component name="RunManager" selected="Application.arac_uretimi4_son.Main">
+    <configuration name="AracUretimiMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arac_uretimi.AracUretimiMain" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_interface.*" />
+          <option name="PATTERN" value="arac_uretimi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CokluKalitimGerekliligi (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_interface.CokluKalitimGerekliligi" />
+    <configuration name="EnBuyukSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tum_edemirog.EnBuyukSayi" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_interface.*" />
+          <option name="PATTERN" value="tum_edemirog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CokluKalitimGerekliligi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_interface.CokluKalitimGerekliligi" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arac_uretimi2.Main" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_interface.*" />
+          <option name="PATTERN" value="arac_uretimi2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +115,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoyutSinifKavrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="abstract_interface.SoyutSinifKavrami" />
+    <configuration name="arac_uretimi3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arac_uretimi3.Main" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="abstract_interface.*" />
+          <option name="PATTERN" value="arac_uretimi3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arac_uretimi4_son.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arac_uretimi4_son.Main" />
+      <module name="ciraklik" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arac_uretimi4_son.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,10 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CokluKalitimGerekliligi (2)" />
-        <item itemvalue="Application.CokluKalitimGerekliligi (1)" />
-        <item itemvalue="Application.CokluKalitimGerekliligi" />
-        <item itemvalue="Application.SoyutSinifKavrami" />
+        <item itemvalue="Application.arac_uretimi4_son.Main" />
+        <item itemvalue="Application.arac_uretimi3.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AracUretimiMain" />
+        <item itemvalue="Application.EnBuyukSayi" />
       </list>
     </recent_temporary>
   </component>
@@ -127,7 +174,9 @@
       <updated>1663258433865</updated>
       <workItem from="1663258435252" duration="88000" />
       <workItem from="1663258524317" duration="4683000" />
-      <workItem from="1663431629406" duration="2244000" />
+      <workItem from="1663431629406" duration="2554000" />
+      <workItem from="1663619639457" duration="32843000" />
+      <workItem from="1664020108441" duration="15889000" />
     </task>
     <task id="LOCAL-00001" summary="ultimate first commit">
       <created>1663259246217</created>
@@ -150,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663261622501</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="interface kavrami">
+      <created>1663435395306</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663435395306</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +231,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ultimate first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="ultimate first commit" />
+    <MESSAGE value="interface kavrami" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface kavrami" />
   </component>
 </project>
