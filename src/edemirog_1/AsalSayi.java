@@ -1,4 +1,4 @@
-package tum_edemirog;
+package edemirog_1;
 
 public class AsalSayi {
 
