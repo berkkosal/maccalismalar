@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="engin demirog odevler">
-      <change afterPath="$PROJECT_DIR$/src/edemirog_1/SayiBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/ComparableKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/access_modifiers/DefaultveyaPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/access_modifiers/ErisimBelirleyiciler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/access_modifiers/PrivateKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/access_modifiers/ProtectedKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/icice_siniflar/NestedClassKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_interface/icice_siniflar/Yazici.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tum_edemirog/AsalSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edemirog_1/AsalSayi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tum_edemirog/EnBuyukSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edemirog_1/EnBuyukSayi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tum_edemirog/MukemmelSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edemirog_1/MukemmelSayi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tum_edemirog/SesliHarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edemirog_1/SesliHarf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edemirog_1/AsalSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edemirog_1/AsalSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edemirog_1/EnBuyukSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edemirog_1/EnBuyukSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edemirog_1/MukemmelSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edemirog_1/MukemmelSayi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +51,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SayiBulma">
-    <configuration name="AsalSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edemirog_1.AsalSayi" />
+  <component name="RunManager" selected="Application.ComparableKullanimi (5)">
+    <configuration name="ComparableKullanimi (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_interface.ComparableKullanimi" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edemirog_1.*" />
+          <option name="PATTERN" value="abstract_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MukemmelSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edemirog_1.MukemmelSayi" />
+    <configuration name="ComparableKullanimi (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_interface.ComparableKullanimi" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edemirog_1.*" />
+          <option name="PATTERN" value="abstract_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edemirog_1.SayiBulma" />
+    <configuration name="ComparableKullanimi (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_interface.ComparableKullanimi" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edemirog_1.*" />
+          <option name="PATTERN" value="abstract_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SesliHarf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edemirog_1.SesliHarf" />
+    <configuration name="ComparableKullanimi (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_interface.ComparableKullanimi" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edemirog_1.*" />
+          <option name="PATTERN" value="abstract_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="arac_uretimi4_son.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arac_uretimi4_son.Main" />
+    <configuration name="ComparableKullanimi (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_interface.ComparableKullanimi" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arac_uretimi4_son.*" />
+          <option name="PATTERN" value="abstract_interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SayiBulma" />
-        <item itemvalue="Application.MukemmelSayi" />
-        <item itemvalue="Application.SesliHarf" />
-        <item itemvalue="Application.AsalSayi" />
-        <item itemvalue="Application.arac_uretimi4_son.Main" />
+        <item itemvalue="Application.ComparableKullanimi (5)" />
+        <item itemvalue="Application.ComparableKullanimi (4)" />
+        <item itemvalue="Application.ComparableKullanimi (3)" />
+        <item itemvalue="Application.ComparableKullanimi (2)" />
+        <item itemvalue="Application.ComparableKullanimi (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +153,9 @@
       <workItem from="1663431629406" duration="2554000" />
       <workItem from="1663619639457" duration="32843000" />
       <workItem from="1664020108441" duration="20048000" />
-      <workItem from="1664317336767" duration="1342000" />
+      <workItem from="1664317336767" duration="3472000" />
+      <workItem from="1664394721754" duration="5563000" />
+      <workItem from="1664543090305" duration="2016000" />
     </task>
     <task id="LOCAL-00001" summary="ultimate first commit">
       <created>1663259246217</created>
@@ -219,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664214542140</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="engin demirog odevler">
+      <created>1664391311247</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664391311248</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,7 +248,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="true" />
+                  <entry key="Show.Git.Branches" value="false" />
                 </map>
               </option>
             </State>

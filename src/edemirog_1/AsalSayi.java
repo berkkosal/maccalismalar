@@ -6,11 +6,11 @@ public class AsalSayi {
         int number = 44;
         boolean isPrime = true;
 
-        if(number==1){
+        if (number == 1) {
             System.out.println("Sayı asal değildir.");
             return;
         }
-        if (number<1){
+        if (number < 1) {
             System.out.println("Geçersiz sayı.");
             return;
         }
@@ -21,7 +21,7 @@ public class AsalSayi {
             }
         }
 
-        if (isPrime){
+        if (isPrime) {
             System.out.println("Sayınız asaldır.");
 
         } else System.out.println("Sayınız asal değildir.");

@@ -17,7 +17,7 @@ public class MukemmelSayi {
         if (toplam == sayi1) {
             System.out.println("Mükemmel sayı.");
 
-        } else System.out.println("Mükemmel sayı değil.");
+        } else System.out.println("Mükemmel sayı değil. ");
 
 
     }
