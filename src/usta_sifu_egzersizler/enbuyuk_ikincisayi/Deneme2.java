@@ -4,7 +4,7 @@ public class Deneme2 {
 
     public static void main(String[] args) {
 
-        int[] sayiDizisi = {31,44,231,654,324,64,967,23};
+        int[] sayiDizisi = {596,8432,799,999,8};
         enBuyukIkinciSayiyiBul(sayiDizisi);
 
     }
@@ -17,6 +17,10 @@ public class Deneme2 {
             if (enBuyukSayi < dizi[i]) {
                 enBuyukIkinciSayi = enBuyukSayi;
                 enBuyukSayi = dizi[i];
+            } else if(enBuyukSayi > dizi[i]){
+                if(enBuyukIkinciSayi < dizi[i]){
+                    enBuyukIkinciSayi = dizi[i];
+                }
             }
 
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="basarisizlik">
+    <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="basari kokusu?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/usta_sifu_egzersizler/enbuyuk_ikincisayi/Deneme2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/usta_sifu_egzersizler/enbuyuk_ikincisayi/Deneme2.java" afterDir="false" />
     </list>
@@ -146,7 +146,7 @@
       <workItem from="1664317336767" duration="3472000" />
       <workItem from="1664394721754" duration="5563000" />
       <workItem from="1664543090305" duration="18876000" />
-      <workItem from="1664814824616" duration="5649000" />
+      <workItem from="1664814824616" duration="7373000" />
     </task>
     <task id="LOCAL-00001" summary="ultimate first commit">
       <created>1663259246217</created>
@@ -246,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664813768966</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="basari kokusu?">
+      <created>1664836412181</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664836412181</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -277,6 +284,18 @@
     <MESSAGE value="engin demirog odevler, emre altunbilek ders" />
     <MESSAGE value="ustasifuya en büyük ikinci sayi" />
     <MESSAGE value="basarisizlik" />
-    <option name="LAST_COMMIT_MESSAGE" value="basarisizlik" />
+    <MESSAGE value="basari kokusu?" />
+    <option name="LAST_COMMIT_MESSAGE" value="basari kokusu?" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/usta_sifu_egzersizler/enbuyuk_ikincisayi/Deneme2.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
