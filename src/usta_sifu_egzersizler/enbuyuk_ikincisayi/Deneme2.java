@@ -4,36 +4,32 @@ public class Deneme2 {
 
     public static void main(String[] args) {
 
-
-        int[] sayiDizisi = {942, 23, 532, 44, 85, 12};
-
+        int[] sayiDizisi = {31,44,231,654,324,64,967,23};
+        enBuyukIkinciSayiyiBul(sayiDizisi);
 
     }
 
-    public static int enBuyukSayiyiBul(int [] dizi){
-        int enBuyukSayi = 0;
-
-        for (int i = 0; i <  dizi.length; i++ ){
-            if (dizi[i] <  )
-        }
-
-
-
-
-
-
-        return enBuyukSayi;
-    }
-
-    public static int enBuyukIkinciSayiyiBul(int[] dizi) {
+    public static void enBuyukIkinciSayiyiBul(int[] dizi) {
+        int enBuyukSayi = dizi[0];
         int enBuyukIkinciSayi = 0;
 
         for (int i = 0; i < dizi.length; i++) {
-
+            if (enBuyukSayi < dizi[i]) {
+                enBuyukIkinciSayi = enBuyukSayi;
+                enBuyukSayi = dizi[i];
+            }
 
 
         }
-        return enBuyukIkinciSayi;
+
+        System.out.println("En büyük sayı: " + enBuyukSayi);
+        System.out.println("En büyük ikinci sayı: " + enBuyukIkinciSayi);
+
+
     }
 
+
 }
+
+
+
