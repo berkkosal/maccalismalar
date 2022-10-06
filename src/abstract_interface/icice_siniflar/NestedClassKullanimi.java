@@ -7,6 +7,8 @@ public class NestedClassKullanimi {
 
         String [ ] sehirler = { " Ankara " , " Bursa " , " Izmir " } ;
 
+        //Udemy 101. video.
+
 
 
     }
