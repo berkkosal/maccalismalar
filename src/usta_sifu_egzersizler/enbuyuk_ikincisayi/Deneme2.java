@@ -4,14 +4,14 @@ public class Deneme2 {
 
     public static void main(String[] args) {
 
-        int[] sayiDizisi = {596,8432,799,999,8};
+        int[] sayiDizisi = {1,2,3,4,5};
         enBuyukIkinciSayiyiBul(sayiDizisi);
 
     }
 
     public static void enBuyukIkinciSayiyiBul(int[] dizi) {
         int enBuyukSayi = dizi[0];
-        int enBuyukIkinciSayi = 0;
+        int enBuyukIkinciSayi = dizi[1];
 
         for (int i = 0; i < dizi.length; i++) {
             if (enBuyukSayi < dizi[i]) {

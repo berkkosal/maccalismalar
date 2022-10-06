@@ -51,7 +51,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GenericsKavrami">
+  <component name="RunManager" selected="Application.Deneme2">
     <configuration name="ComparableKullanimi (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstract_interface.ComparableKullanimi" />
       <module name="ciraklik" />
@@ -132,8 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GenericsKavrami" />
         <item itemvalue="Application.Deneme2" />
+        <item itemvalue="Application.GenericsKavrami" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ComparableKullanimi (5)" />
         <item itemvalue="Application.ComparableKullanimi (4)" />
