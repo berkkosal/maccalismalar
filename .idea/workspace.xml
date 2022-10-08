@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="generic kavrami">
-      <change afterPath="$PROJECT_DIR$/src/generics/veteriner_birligi/Hayvan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/veteriner_birligi/Kedi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/veteriner_birligi/Kisi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/veteriner_birligi/Kopek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/veteriner_birligi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/veteriner_birligi/Musteri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/veteriner_birligi/SehirVeterinerlikleri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/veteriner_birligi/Veteriner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generics/veteriner_birligi/YonetimPaneli.java" afterDir="false" />
+    <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="veterinerler birliği yapısı">
+      <change afterPath="$PROJECT_DIR$/src/com/kosalberk/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/kosalberk/MyWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/BirdenFazlaCatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionKavrami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/MetotIcindeHata.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,22 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/berkkosal/Desktop/Berk v6/Java/maccalismalar",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/berkkosal/Desktop/Berk v6/Java/maccalismalar&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.generics.veteriner_birligi.Main">
-    <configuration name="Deneme2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="usta_sifu_egzersizler.enbuyuk_ikincisayi.Deneme2" />
+}</component>
+  <component name="RunManager" selected="Application.DegerDondurenBloklar">
+    <configuration name="BirdenFazlaCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.BirdenFazlaCatch" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="usta_sifu_egzersizler.enbuyuk_ikincisayi.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericMetotKavrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.GenericMetotKavrami" />
+    <configuration name="DegerDondurenBloklar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.DegerDondurenBloklar" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsKavrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.GenericsKavrami" />
+    <configuration name="ExceptionKavrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.ExceptionKavrami" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generics.veteriner_birligi.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.veteriner_birligi.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kosalberk.Main" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.veteriner_birligi.*" />
+          <option name="PATTERN" value="com.kosalberk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="usta_sifu_egzersizler.enyakin_sayilar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="usta_sifu_egzersizler.enyakin_sayilar.Main" />
+    <configuration name="MetotIcindeHata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.MetotIcindeHata" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="usta_sifu_egzersizler.enyakin_sayilar.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.generics.veteriner_birligi.Main" />
-        <item itemvalue="Application.usta_sifu_egzersizler.enyakin_sayilar.Main" />
-        <item itemvalue="Application.GenericMetotKavrami" />
-        <item itemvalue="Application.Deneme2" />
-        <item itemvalue="Application.GenericsKavrami" />
+        <item itemvalue="Application.DegerDondurenBloklar" />
+        <item itemvalue="Application.MetotIcindeHata" />
+        <item itemvalue="Application.BirdenFazlaCatch" />
+        <item itemvalue="Application.ExceptionKavrami" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +152,7 @@
       <workItem from="1664394721754" duration="5563000" />
       <workItem from="1664543090305" duration="18876000" />
       <workItem from="1664814824616" duration="7373000" />
-      <workItem from="1664905942852" duration="18453000" />
+      <workItem from="1664905942852" duration="26512000" />
     </task>
     <task id="LOCAL-00001" summary="ultimate first commit">
       <created>1663259246217</created>
@@ -284,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665071205616</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="veterinerler birliği yapısı">
+      <created>1665153513652</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665153513652</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,6 +322,7 @@
     <MESSAGE value="generic giris" />
     <MESSAGE value="en büyük ikinci sayı yapıldı" />
     <MESSAGE value="generic kavrami" />
-    <option name="LAST_COMMIT_MESSAGE" value="generic kavrami" />
+    <MESSAGE value="veterinerler birliği yapısı" />
+    <option name="LAST_COMMIT_MESSAGE" value="veterinerler birliği yapısı" />
   </component>
 </project>
