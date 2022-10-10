@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="veterinerler birliği yapısı">
-      <change afterPath="$PROJECT_DIR$/src/com/kosalberk/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/kosalberk/MyWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/BirdenFazlaCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ExceptionKavrami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/MetotIcindeHata.java" afterDir="false" />
+    <list default="true" id="27598e6a-05fb-402e-a9a8-ae8b6a0eacaa" name="Changes" comment="Exceptionlar">
+      <change afterPath="$PROJECT_DIR$/src/exceptions/KendiExceptionlarim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/ThrowsKullanimi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DegerDondurenBloklar">
+  <component name="RunManager" selected="Application.KendiExceptionlarim">
     <configuration name="BirdenFazlaCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptions.BirdenFazlaCatch" />
       <module name="ciraklik" />
@@ -73,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptionKavrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.ExceptionKavrami" />
+    <configuration name="KendiExceptionlarim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.KendiExceptionlarim" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kosalberk.Main" />
+    <configuration name="MetotIcindeHata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.MetotIcindeHata" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kosalberk.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetotIcindeHata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.MetotIcindeHata" />
+    <configuration name="ThrowsKullanimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.ThrowsKullanimi" />
       <module name="ciraklik" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KendiExceptionlarim" />
+        <item itemvalue="Application.ThrowsKullanimi" />
         <item itemvalue="Application.DegerDondurenBloklar" />
         <item itemvalue="Application.MetotIcindeHata" />
         <item itemvalue="Application.BirdenFazlaCatch" />
-        <item itemvalue="Application.ExceptionKavrami" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -153,6 +150,7 @@
       <workItem from="1664543090305" duration="18876000" />
       <workItem from="1664814824616" duration="7373000" />
       <workItem from="1664905942852" duration="26512000" />
+      <workItem from="1665226156823" duration="3891000" />
     </task>
     <task id="LOCAL-00001" summary="ultimate first commit">
       <created>1663259246217</created>
@@ -287,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665153513652</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Exceptionlar">
+      <created>1665226419689</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665226419689</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,6 +328,7 @@
     <MESSAGE value="en büyük ikinci sayı yapıldı" />
     <MESSAGE value="generic kavrami" />
     <MESSAGE value="veterinerler birliği yapısı" />
-    <option name="LAST_COMMIT_MESSAGE" value="veterinerler birliği yapısı" />
+    <MESSAGE value="Exceptionlar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptionlar" />
   </component>
 </project>
